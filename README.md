@@ -13,4 +13,4 @@ Happy Data Scientist.
 
 Note - This model will work perfectly if u give it a proper data which is having proper review rating given to it , the data used here is kind of not to the point but the purpose of this repository is to explain and get insights of the sentiments of reviews.
 Note - The xlsx file contains two text columns dont worry about it one column contains title and other conatins the title + body of the review and model is trained on later.
-NOTE - The model finsihes at [107] ignore everything after that line . We got the accuracy of our model at line 107
+NOTE - The model finsihes at [107] ignore everything after that line . We got the accuracy of our model at line OUTPUT[107]
