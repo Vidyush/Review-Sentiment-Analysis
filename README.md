@@ -1,0 +1,2 @@
+# Review-Sentiment-Analysis
+In this repository u will find a xlsx file which contains comments with ratings of the products by the users. So our task is to predict the review given by the customer is positive,negative or neutral. Note - This model will work perfectly if u give it a proper data which is having proper review rating given to it , the data used here is kind of not to the point but the purpose of this repository is to explain and get insights of the sentiments of reviews.
